@@ -1,0 +1,21 @@
+06.12.2019 18:45:00.692 [main] INFO  stc.inno20.Main - Начальный объект: null
+06.12.2019 18:47:50.331 [main] INFO  stc.inno20.Main - Начальный объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 18:47:50.335 [main] INFO  stc.inno20.Main - Итоговый объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 18:52:50.505 [main] INFO  stc.inno20.Main - Начальный объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 18:52:50.507 [main] INFO  stc.inno20.Main - Итоговый объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 20:00:15.100 [main] INFO  stc.inno20.Main - Начальный объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 20:00:15.103 [main] INFO  stc.inno20.Main - Итоговый объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 20:01:04.814 [main] INFO  stc.inno20.Main - Начальный объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 20:01:04.816 [main] INFO  stc.inno20.Main - Итоговый объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 20:15:19.985 [main] INFO  stc.inno20.Main - Начальный объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 20:15:19.987 [main] INFO  stc.inno20.Main - Итоговый объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 20:15:54.463 [main] INFO  stc.inno20.Main - Начальный объект: Mobile{id=4, model='FRY1', price=70000, manufacturer=Apple}
+06.12.2019 20:15:54.648 [main] INFO  stc.inno20.Main - Итоговый объект: Mobile{id=4, model='FRY1', price=70000, manufacturer=Apple}
+06.12.2019 20:16:44.143 [main] INFO  stc.inno20.Main - Начальный объект: null
+06.12.2019 20:17:02.863 [main] INFO  stc.inno20.Main - Начальный объект: null
+06.12.2019 20:17:27.513 [main] INFO  stc.inno20.Main - Начальный объект: Mobile{id=29, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 20:17:27.686 [main] INFO  stc.inno20.Main - Итоговый объект: Mobile{id=29, model='Iphone 2', price=70000, manufacturer=Apple}
+06.12.2019 20:17:48.729 [main] INFO  stc.inno20.Main - Начальный объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 20:17:48.731 [main] INFO  stc.inno20.Main - Итоговый объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 21:00:54.963 [main] INFO  stc.inno20.Main - Начальный объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
+06.12.2019 21:00:54.967 [main] INFO  stc.inno20.Main - Итоговый объект: Mobile{id=4, model='Iphone 2', price=25000, manufacturer=Apple}
